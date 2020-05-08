@@ -79,3 +79,6 @@ first use of cat command is to display the content of the files in the terminal.
 > $<br>
 > list1 line 3$<br>
 
+## Redirection in Linux
+
+Redirection simply means to capture output from a program and sending it as an input to other file or program. 
