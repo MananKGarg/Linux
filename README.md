@@ -58,15 +58,15 @@ first use of cat command is to display the content of the files in the terminal.
 > list1 line 3<br>
 * cat list1.txt list2.txt - Displays content of list1 followed by list2 in terminal
 * cat -b list1.txt - add line numbers in front of non blank lines
-> 1  list1 line 1
-> 2  list1 line 2
+> 1  list1 line 1<br>
+> 2  list1 line 2<br>
 ><br>
-> 3  list1 line 3
+> 3  list1 line 3<br>
 * cat -n list1.txt - add line numbers in front of all the lines
-> 1  list1 line 1
-> 2  list1 line 2
-> 3
-> 4  list1 line 3
+> 1  list1 line 1<br>
+> 2  list1 line 2<br>
+> 3<br>
+> 4  list1 line 3<br>
 * cat -s list1.txt - reduce multiple blank lines to one blank line
 > list1 line 1
 >
